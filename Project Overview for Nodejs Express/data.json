@@ -1,0 +1,35 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_name": "Quote Slide Show",
+      "description": "Showing quote Random order",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "image_urls": ["static/images/1_1.jpg", "static/images/1_2.jpg", "static/images/1_3.jpg", "static/images/1_4.jpg"],
+      "githubsRepo": "https://github.com/FourSeasonK/Project-1---Quote-Slide-Show",
+      "liveDemo": "https://fourseasonk.github.io/Project-1---Quote-Slide-Show/"
+    },
+    {
+        "id": 2,
+        "project_name": "Page Numbering",
+        "description": "Showing contacts infomation by limited number",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "image_urls": ["static/images/2_1.jpg", "static/images/2_2.jpg", "static/images/2_3.jpg", "static/images/2_4.jpg"],
+        "githubsRepo": "https://github.com/FourSeasonK/Project2-Starter",
+        "liveDemo": "https://fourseasonk.github.io/Project2-Starter/"
+    },
+    {
+        "id": 3,
+        "project_name": "BMI Web App",
+        "description": "BMI Calculator",
+        "technologies": ["JavaScript", "Node.js", "express", "pug", "CSS"],
+        "image_urls": ["static/images/3_1.jpg", "static/images/3_2.jpg", "static/images/3_3.jpg", "static/images/3_4.jpg"],
+        "githubsRepo": "https://github.com/FourSeasonK/Templating-BMI-Calculator-",
+        "liveDemo": "https://github.com/FourSeasonK/Templating-BMI-Calculator-"
+    }
+  ]
+
+
+
+
+}
