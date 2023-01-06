@@ -48,8 +48,11 @@ app.get("/about", function (req, res) {
     res.render('about', {personInfo});
 });
 
+//app.get('/project/:id', function (req, res) {
 app.get('/project', function (req, res) {
 
+  //req.param.id
+  //data[req.param.id]
     try{
         console.log(req.query);
 
