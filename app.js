@@ -2,7 +2,11 @@ const data = require("./data.json");
 
 let personInfo = {
     name: "Zeno K.",
+<<<<<<< HEAD
     description: "Software Engineer & Fine Art Creator",
+=======
+    description: "Computer Programmer & Visual Artist",
+>>>>>>> 1e0c2a614a072e8b8bb0bbde79af4f4b199dd787
     aboutURL: "/about",
     img: "static/images/zenok.jpg",
     bio: [
