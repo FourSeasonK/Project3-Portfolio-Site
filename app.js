@@ -1,7 +1,7 @@
 const data = require("./data.json");
 
 let personInfo = {
-    name: "Sung Ah Kim",
+    name: "Zeno K.",
     description: "Computer Programmer & Visual Artist",
     aboutURL: "/about",
     img: "static/images/sungah.jpg",
