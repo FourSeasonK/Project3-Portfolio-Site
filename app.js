@@ -33,7 +33,7 @@ app.get("/", function (req, res) {
     const projInfos = data.projects;
 
     var projectName = "Advanced Web Program - JavaScript/AJAX";
-    var proDesc = "JavaScrpt, Node.js, React, AJAX";
+    var proDesc = "HTML/CSS, JavaScript, Node.js, React, AJAX";
 
     res.render('index', {personInfo, projInfos, Heading: projectName, PortfolioDescription: proDesc});
 });
