@@ -1,21 +1,17 @@
 const data = require("./data.json");
 
 let personInfo = {
-    name: "Sung Ah Kim",
-    description: "Computer Programmer & Visual Artist",
+    name: "Zeno K.",
+    description: "Software Engineer & Fine Art Creator",
     aboutURL: "/about",
-    img: "static/images/sungah.jpg",
+    img: "static/images/zenok.jpg",
     bio: [
-        // "Skilled in computer programing Languages: Java and C#",
-        // "Knowledgeable of JS/HTML/CSS, PHP and Database (Oracle Apex, MySQL)",
-        "Enthusiastic and flexible individual who enjoys creative collaboration",
-        "Extensive knowledge and practice in visual arts",
-        "Experience working and creating art including designing, teaching, supporting and management",
-        "A highly creative individual with the ability to translate creative concepts into visual works",
-        "Languages Skills: English, Korean, and basic Mandarin Chinese",
-        "Computer Skills: Word, Excel, PowerPoint, and Photoshop, Illustrator and basic of Zbrush"
+      "I’m a dedicated Software Engineer with a strong focus on learning, collaboration, and problem-solving. With experience across web and app development, UX/UI design, and coding, I consistently deliver high-quality work on time. My background in Fine Arts brings a creative dimension to my approach, allowing me to tackle projects with fresh, innovative ideas that enhance user experiences.",
+      "As an empathetic, entry-level developer, I’m committed to building accessible, user-friendly websites and applications. Proficient in HTML, CSS, JavaScript, and React, I apply strong problem-solving skills, attention to detail, and Agile methodologies to ensure smooth project execution. I’m passionate about using technology to make a positive impact on users and communities, continuously refining my skills to stay current and ready to connect and create meaningful work.",
+      "Computer Skills: Microsoft Office, Adobe Photoshop, Adobe Illustrator and basic of Zbrush",
+      "Languages: English, Korean"
     ],
-    skills: ["Java", "JavaScript", "HTML", "CSS", "Node.js", "Express", "Pug", "PHP", "C#", "MySQL", "Oracle APex"]
+    skills: ["Java", "JavaScript", "C#", "Python", "PHP","HTML", "CSS", "React", "Node.js", "Express", "Pug",  "WordPress", "MySQL", "MongoDB"]
 };
 
 

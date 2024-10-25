@@ -40,7 +40,7 @@
         "static/images/3_4.jpg"
       ],
       "githubsRepo": "https://github.com/FourSeasonK/Templating-BMI-Calculator-",
-      "liveDemo": "https://templating-bmi-calculator-production.up.railway.app/"
+      "liveDemo": "https://templating-bmi-calculator.up.railway.app/"
     },
     {
       "id": 4,
@@ -69,6 +69,20 @@
       ],
       "githubsRepo": "https://github.com/FourSeasonK/Students-API-Project",
       "liveDemo": "https://fourseasonk.github.io/Students-API-Project/"
+    },
+    {
+      "id": 6,
+      "project_name": "React - List of planets",
+      "description": "Creating a List of planets using React",
+      "technologies": ["JavaScript", "HTML", "CSS", "React"],
+      "image_urls": [
+        "static/images/6_1.jpg",
+        "static/images/6_2.jpg",
+        "static/images/6_3.jpg",
+        "static/images/6_4.jpg"
+      ],
+      "githubsRepo": "https://github.com/FourSeasonK/React-Practice-Project-Planets-start.git",
+      "liveDemo": "https://fourseasonk.github.io/React-Practice-Project-Planets-start/"
     }
   ]
 }
